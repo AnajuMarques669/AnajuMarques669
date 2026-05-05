@@ -19,5 +19,5 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: ([](https://www.linkedin.com/in/ana-julia-sousa-marques-927206373/))  
+- 💼 LinkedIn: ((https://www.linkedin.com/in/ana-julia-sousa-marques-927206373/))  
 - ✉️ Email: (asousamarques21@gmail.com)
